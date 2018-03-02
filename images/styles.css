@@ -1,0 +1,45 @@
+        <style>
+h1 {
+    color:  #000000;
+    font-family:  Montserrat;
+    font-weight:  regular;
+    font-size: 40pt;
+}
+h2  {
+    font-size:  1.5em;
+}
+
+p  {
+    font-family:  Montserrat;
+    color:  #8B0000;
+}
+.regpara {
+    font-family:  "Montserrat";
+}
+.italpara  {
+    font-style:  italic;
+}
+.boldpara  {
+    font-weight=bold;
+}
+span  {
+    font-family:  Montserrat;
+    font-size:  30pt;
+}
+div.static {
+    position: static;
+    border: 10px solid #73AD21;
+    }
+
+#div1  {
+    width: 100px;
+    height: 200px;
+    background-color:  #8B0000;
+    color:  #700;
+}
+#output  {
+    font-family:  Montserrat;
+    font-size: 20pt;
+}
+
+</style>
